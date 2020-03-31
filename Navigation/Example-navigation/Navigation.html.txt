@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="description" content="Nagłówek">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.css">
+  <link href="https://fonts.googleapis.com/css?family=Space+Mono:400,700" rel="stylesheet">
+  <title>JS Bin</title>
+</head>
+<body>
+  <nav>
+    <a href="#" class="active fright">Sign Up</a>
+    <a href="#" class="fright">Sign In</a>
+    <a href="#" class="fright">About</a>
+    <a href="#" class="fleft">Home</a>
+  </nav>
+</body>
+</html> 
